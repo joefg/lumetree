@@ -1,0 +1,20 @@
+title: lumetree
+blurb: A simple links page for Lume
+photo: img/lume.webp
+
+footer: >
+  lumetree, 4/10/2023 / ❤️ 
+
+text: >
+  lumetree is a simple links page built with Lume and Deno.
+
+links:
+  - title: GitHub Repo
+    url: https://github.com/joefg/lumetree
+  - title: 🔥 Lume 
+    url: https://lume.land/
+  - title: Deno
+    url: https://deno.land/
+  - title: 🎥 The thing that gets us to the thing
+    url: https://www.youtube.com/watch?v=QeY_5n75zPM
+ 
